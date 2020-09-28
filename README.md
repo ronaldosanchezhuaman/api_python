@@ -3,3 +3,4 @@
 Integrantes:
 - Neldo Agustín Falcón
 - Cardenas Chuquiyauri, Joshep
+- Sanchez Huaman Ronaldo
